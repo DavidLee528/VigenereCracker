@@ -8,10 +8,10 @@ Digital Forensic Homework: Crack Vigenere Ciphertext using statistic method (Ind
 
 ### Step 2
 
-- Use your guess period to calculate `Chi-square`
+- Use your guess period to calculate `Chi-square` using `chi-sq.cpp`
 - Program will give you a most possible key
 
 ### Step 3
 
-- Use the most possible key to decipher the ciphertext
+- Use the most possible key to decipher the ciphertext using `decipher.cpp`
 - Observe the plaintext, if seems normal, accept it, if not, back to step 1 or 2
