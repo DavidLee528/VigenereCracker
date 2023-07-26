@@ -1,5 +1,5 @@
 # VigenereCracker
-Crack Vigenere Ciphertext using statistic method (Index of Coincidence and Chi-square)
+Crack Vigenere Ciphertext using statistic method (Index of Coincidence and Chi-square), the steps from ciphertext to possible key are as follow:
 
 ### Step 1
 
